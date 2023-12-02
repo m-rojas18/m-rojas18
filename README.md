@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Rojas</h1>
-<h3 align="center">A 4th year studend in Computer Systems Engineering</h3>
+<h3 align="center">A 4th year software engineering student, I'm used to working in web development projects.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-rojas18" alt="m-rojas18" /></a> </p>
 
